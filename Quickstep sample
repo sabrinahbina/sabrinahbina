@@ -1,0 +1,7 @@
+echo "# sabrinahbina" >>.md
+git int
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote and origin git@ithub.com:sabrinahbina/sabrinahbina.git
+git push -u origin main
